@@ -8,5 +8,5 @@
   <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img width='35' height='35' src="https://www.svgrepo.com/show/376337/node-js.svg" />          
+  <img width='35' height='35' src="[https://www.svgrepo.com/show/376337/node-js.svg](https://www.svgrepo.com/show/452075/node-js.svg)" />          
 </div>
