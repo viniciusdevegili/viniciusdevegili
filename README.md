@@ -1,4 +1,4 @@
-## Full-Stack Developer
+## Analista de Dados
 
 - Técnico em Informática para Web (2020 - 2022)
 - Técnologo em Análise e Desenvolvimento de Sistemas (2023 - 2025)
