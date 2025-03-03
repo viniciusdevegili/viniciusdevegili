@@ -1,16 +1,37 @@
-## Analista de Dados
+<h2 align="center">Olá! Meu nome é Vinicius</h2>
 
-- Técnico em Informática para Web (2020 - 2022)
-- Técnologo em Análise e Desenvolvimento de Sistemas (2023 - 2025)
+###
 
-<div style="display: inline">
- <img width='35' height='35' src="https://www.svgrepo.com/show/452091/python.svg" />
-<img width='35' height='35' src="https://www.svgrepo.com/show/375309/csv-document.svg" />
- <img width='35' height='35' src="https://icons8.com/icon/Ny0t2MYrJ70p/power-bi-2021]" />
-  <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img width='35' height='35' src="https://www.svgrepo.com/show/452075/node-js.svg" />   
- <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
- <img width='35' height='35' src="https://www.svgrepo.com/show/374167/vite.svg" />
-  <img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-<img width='35' height='35' src="https://www.svgrepo.com/show/448236/linux.svg" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciusdevegili&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/vinicius-devegili/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/viniciusdevegili/viniciusdevegili/output/snake.svg" alt="Snake animation" />
+
+###
